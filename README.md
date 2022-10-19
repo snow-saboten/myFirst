@@ -1,3 +1,7 @@
-# myFirst
-githubTest
-I'm studying this tool.
+<samp>
+
+# Introduction
+
+Javaを勉強しはじめたばかりのエンジニア0年生です。
+
+</samp>
