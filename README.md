@@ -2,6 +2,6 @@
 
 # Introduction
 
-Javaを勉強しはじめたばかりのエンジニア0年生です。
+test
 
 </samp>
